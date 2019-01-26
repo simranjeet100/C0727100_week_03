@@ -17,6 +17,7 @@ namespace C0727100_week_03
     class countryside
     {
         // how will i make some vilklage?
+
     }
 
     class Village
