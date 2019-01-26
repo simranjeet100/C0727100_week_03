@@ -15,9 +15,10 @@ namespace C0727100_week_03
         }
     }
 
-    class Node
+    class Village
     {
-        Node PreviousNode;
-        Node NextNode;
+        Village previousVillage;
+        Village NextVillage;
+     
     }
 }
