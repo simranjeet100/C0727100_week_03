@@ -10,6 +10,8 @@ namespace C0727100_week_03
     {
         static void Main(string[] args)
         {
+
+            int i = 9;
         }
     }
 }
