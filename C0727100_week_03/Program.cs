@@ -14,11 +14,18 @@ namespace C0727100_week_03
 
         }
     }
+    class countryside
+    {
+        // how will i make some vilklage?
+    }
 
     class Village
     {
         Village previousVillage;
         Village NextVillage;
+        String villageName;
+        bool isAstrildeHere = false;
+        public Village() { }
      
     }
 }
